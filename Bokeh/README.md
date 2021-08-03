@@ -1,1 +1,1 @@
-Bokeh plots  
+Bokeh plot examples  
