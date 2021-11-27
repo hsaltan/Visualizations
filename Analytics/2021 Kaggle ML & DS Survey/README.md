@@ -2,6 +2,6 @@ Analysis made on the 2021 Kaggle Machine Learning & Data Science Survey. The ana
 
 The studys aims to show the differences between the groups, as to who is better at what and how much.
 
-The analysis used Matplotlib, Plotly and Pandas, and external data and sources as well.  
+The analysis used Matplotlib, Seaborn, Plotly and Pandas, and external data and sources as well.  
 
 The project can also be found on: <https://www.kaggle.com/hserdaraltan/let-s-respect-the-veterans>  
